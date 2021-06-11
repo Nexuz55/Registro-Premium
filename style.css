@@ -57,7 +57,7 @@ Mobile Main content
 }
 
 .image-resize-heading {
-    width: 200px;
+    width: 250px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -68,7 +68,7 @@ Mobile Main content
 }    
 
 .image-resize {  
-    width: 160px;
+    width: 200px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -78,9 +78,6 @@ Mobile Main content
     left: 50%;
 }
 
-.image-resize-tub {
-    width: 160px;
-}
 
 .intro-text-1 {    
     font-size: 30px;
@@ -92,9 +89,6 @@ Mobile Main content
     font-weight: 300;
 }
 
-.card {
-    height: 0px;
-}
 .card__title {
     text-align: center;
     font-size: 20px;
@@ -114,7 +108,7 @@ input[type="button"] {
     background: #007AC2;
     height: 80px;
     width: 100%;
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 600;
     border: none;
     border-radius: 4px;
@@ -147,7 +141,7 @@ input[type="button"] {
 }
 
 .icon {
-    font-size: 50px;
+    font-size: 35px;
     margin-left: 9px;
     margin-right: 9px;
     
@@ -225,6 +219,7 @@ Desktop Main content
         font-size: 26px;
         font-weight: 300;
         margin-bottom: 24px;
+        word-wrap: break-word;
     }
 
     .card {
